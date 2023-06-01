@@ -1,2 +1,2 @@
 # NOTES
-live link https://sachinchauve.github.io/NOTES/
+live link https://sachinchaturvedi1.github.io/NOTES/
